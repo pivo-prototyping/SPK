@@ -1,6 +1,6 @@
 {
     "manufacturer": "pivo_prototyping",
-    "keyboard_name": "spk_fly52",
+    "keyboard_name": "SPK_FLY52",
     "maintainer": "pivo-prototyping",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
